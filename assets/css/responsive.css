@@ -239,4 +239,8 @@
         left: 128px;
         padding-top: 2px;
     }
+    
+    .navbar-links {
+        padding : 8px 100%;
+    }
 }
