@@ -78,6 +78,11 @@
     #about{
         height: 130vh;
     }
+    
+    .demos-links{
+        left: 110px;
+        bottom: 100px;
+    }
 }
 
 /* Tablet High */
@@ -100,6 +105,10 @@
 
     #demos{
         height: 130vh;
+    }
+    
+    .demos-links{
+        left: 110px;
     }
     
     
