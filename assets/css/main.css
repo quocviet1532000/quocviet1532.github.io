@@ -88,7 +88,7 @@
     min-height: 100vh;
     background: url(../images/cc.jpg) no-repeat center;
     background-size: cover;
-    background-attachment: normal;
+    background-attachment: fixed;
     object-fit: cover;
     position: relative;
 }
@@ -806,7 +806,7 @@
 .purchase-bg{
     background: url(../images/20.jpg) no-repeat center;
     background-size: cover;
-    background-attachment: normal;
+    background-attachment: fixed;
     background-position: center 18.78%;
     position: relative;
     width: 100%;
