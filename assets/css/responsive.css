@@ -257,10 +257,12 @@
         height: 50vh;
     }
 
-    .demos-links{
-        left: 200px;
-        top: 140px;
-        padding-top: 7px;
+    .demos-content:hover .demos-links{
+        display: none;
+    }
+
+    .method-content {
+        margin: 0 10px;
     }
 
     .navbar-links {
